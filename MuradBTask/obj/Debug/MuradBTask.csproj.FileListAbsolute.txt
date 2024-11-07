@@ -1,0 +1,10 @@
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.Properties.Resources.resources
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.csproj.GenerateResource.cache
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\bin\Debug\MuradBTask.exe.config
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\bin\Debug\MuradBTask.exe
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\bin\Debug\MuradBTask.pdb
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.Form1.resources
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.exe
+C:\Users\Murad\source\repos\MuradBTask\MuradBTask\obj\Debug\MuradBTask.pdb
